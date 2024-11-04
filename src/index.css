@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ .shadow:hover {
+    box-shadow: 0 4px 10px rgba(159, 157, 157, 0.6); /* RGBA for red shadow */
+  }
